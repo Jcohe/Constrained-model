@@ -9,10 +9,6 @@ Original file is located at
 
 !pip install sympy
 
-import numpy as np
-x=[np.pi,0]
-print(np.sin(x))
-
 #gradient of fc
 
 from __future__ import division
